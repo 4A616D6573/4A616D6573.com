@@ -19,10 +19,13 @@ It's an immensely useful tool. Find out more by [visiting the project on GitHub]
 
 This site is built on Poole. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site.
 
-There are currently three themes built on Poole:
+There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole/poole).
+
+---
+
+This site is also slightly modified to have an 'About', 'Archive' and 'Feed' with the help of [Josh Lande](http://joshualande.com/jekyll-github-pages-poole)

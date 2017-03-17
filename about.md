@@ -7,7 +7,7 @@ I'm a security analyst for a multinational IT service provider. This site might 
 
 You can find me on [Twitter](https://twitter.com/4A616D6573).
 
-You can also find me a [GitHub](https://github.com/4A616D6573).
+You can also find me on [GitHub](https://github.com/4A616D6573).
 
 ---
 

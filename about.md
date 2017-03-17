@@ -25,4 +25,4 @@ There are currently three themes built on Poole:
 * [Lanyon](http://lanyon.getpoole.com)
 * [Enfield](http://enfield.getpoole.com)
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+Learn more and contribute on [GitHub](https://github.com/poole/poole).

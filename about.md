@@ -23,4 +23,4 @@ Learn more and contribute on [GitHub](https://github.com/poole/poole).
 
 ---
 
-This site is also slightly modified to have an 'About', 'Archive' and 'Feed' with the help of [Joshua Lande](http://joshualande.com/jekyll-github-pages-poole).
+This site is also slightly modified to have an 'About', 'Archive' and 'Feed' sections with the help of [Joshua Lande](http://joshualande.com/jekyll-github-pages-poole).

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a security analyst for a multinational IT service provider. This site might be used for musings on the industry and sharing my own personal education in the way of technical writes ups.
+I'm a security analyst for a multinational IT service provider. This site is for  sharing ideas and my own personal education.
 
 You can find me on [Twitter](https://twitter.com/4A616D6573).
 

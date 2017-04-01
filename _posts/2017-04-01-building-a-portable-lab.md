@@ -51,7 +51,7 @@ The tool I decided to use was [VeraCrypt](https://veracrypt.codeplex.com/). I at
 
 VeraCrypt offers a [Portable Mode](https://veracrypt.codeplex.com/wikipage?title=Portable%20Mode). This allows you to run the executable without installation.
 
-#### Partitioning
+### Partitioning
 
 To keep things simple I decided to create two partitions on the SSD.
 
@@ -62,7 +62,7 @@ This allows you to house the portable tools needed to mount the drive. You don't
 
 Partitioning can all done via [Disk Management](https://support.microsoft.com/en-us/help/17418/windows-7-create-format-hard-disk-partition).
 
-#### Encrypting
+### Encrypting
 
 Once partitioned you can move to encrypting your drive. I installed VeraCrypt using the 'Extract' method as I won't be needing it on my workstations.
 
@@ -84,7 +84,7 @@ Encrypting can take quite a while, around 1-4 hours depending on your system.
 
 ---
 
-### Traveler Disk Setup
+## Traveler Disk Setup
 
 Once your volume is encrypted you can deploy VeraCrypt's [Traveler Disk](https://veracrypt.codeplex.com/wikipage?title=Portable%20Mode) to your public NTFS partition with the following instructions.
 
@@ -97,7 +97,7 @@ This will deploy a lighter version of VeraCrypt to your public volume.
 
 ---
 
-### Mounting
+## Mounting
 
 Once encrypted and your portable files loaded. You can mount the partition with the following instructions.
 
@@ -116,7 +116,7 @@ Congratulations! You've now got a mounted share, you can now begin moving all yo
 
 ---
 
-### Tips
+## Tips
 
 Here are some general tips I've come across after using a portable lab.
 

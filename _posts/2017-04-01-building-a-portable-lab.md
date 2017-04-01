@@ -110,9 +110,17 @@ Once encrypted and your portable files loaded. You can mount the partition with 
 7. Optional, select `Mount Options` and adjust settings to your requirements.
 8. Select `OK`.
 
-Wait for your volume to mount, this can take a few minutes..
+Wait for your volume to mount, this can take a few minutes.
 
-Congratulations! You've now got a mounted share, you can now begin moving all your tools and virtual machines.
+---
+
+## Closing
+
+Congratulations! You've now got a portable lab, you can now begin moving over all your tools.
+
+I've found a portable lab to be an indispensable tool for my day to day work. Being able to have a ever changing tool set on hands at all times is a real game changer. Best of all your spend more time doing the interesting stuff and less on maintenance.
+
+I hope you found this post informative. If you have any questions you can contact me via the [About](/about/) section.
 
 ---
 

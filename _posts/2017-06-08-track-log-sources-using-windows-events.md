@@ -44,7 +44,9 @@ You can then output that query to an alert or report.
 
 Here are some basic Splunk searches:
 
-    source="WinEventLog:Security" "EventCode=4741" | 
+    source="WinEventLog:Security" "EventCode=4741" | eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
+
+    source="WinEventLog:Security" "EventCode=4741" |
     eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
 
     source="WinEventLog:Security" "EventCode=4743" |

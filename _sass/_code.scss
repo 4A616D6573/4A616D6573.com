@@ -14,6 +14,7 @@ code {
   color: $code-color;
   background-color: #f9f9f9;
   border-radius: 3px;
+  width: 700px;
 }
 
 pre {
@@ -36,7 +37,6 @@ pre code {
   line-height: 1.4;
   background-color: #f9f9f9;
   border-radius: .25rem;
-  width: 700px;
 
   pre {
     margin-bottom: 0;

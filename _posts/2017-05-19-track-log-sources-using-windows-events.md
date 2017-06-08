@@ -47,8 +47,6 @@ Here are some basic Splunk searches:
     source="WinEventLog:Security" "EventCode=4741" |
     eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
 
-<br>
-
     source="WinEventLog:Security" "EventCode=4743" |
     eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
 

@@ -44,11 +44,9 @@ You can then output that query to an alert or report.
 
 Here are some basic Splunk searches:
 
-    source="WinEventLog:Security" "EventCode=4741" | 
-    eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
+`source="WinEventLog:Security" "EventCode=4741" | eval Account_Name=mvindex(Account_Name, -1) | top Account_Name`
 
-    source="WinEventLog:Security" "EventCode=4743" |
-    eval Account_Name=mvindex(Account_Name, -1) | top Account_Name
+`source="WinEventLog:Security" "EventCode=4743" | eval Account_Name=mvindex(Account_Name, -1) | top Account_Name`
 
 > **Note:** The section `eval Account_Name=mvindex(Account_Name, -1)` is used to ignore the first extracted value under `Account_Name` because it will always be the creator of the computer account.
 

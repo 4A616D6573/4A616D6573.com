@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              James Pemberton
+  name:              James
   url:               https://twitter.com/4A616D6573
-#  email:             markdotto@gmail.com
+#  email:            
 
 # Custom vars
 version:             2.0.0

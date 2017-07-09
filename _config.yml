@@ -18,11 +18,11 @@ sass:
 # About/contact
 author:
   name:              James
-  url:               https://twitter.com/4A616D6573
-#  email:            
+  url:               https://twitter.com/4A616D6573/
+#  email:
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:              https://github.com/4A616D6573/
 #   repo:
 

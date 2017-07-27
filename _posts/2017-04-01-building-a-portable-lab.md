@@ -11,7 +11,7 @@ For quite a while I maintained two labs, one for work and one for home. Both had
 
 I had the bright spark idea loading a Windows XP virtual machine onto a USB drive and attempting to run it. It works but as soon as you do anything that required the transfer for data. The virtual machine ground to halt, as expected.
 
-I wondered if results would be better with an Sold State Drive (SSD) and E-Sata or USB 3.0.
+I wondered if results would be better with a Solid State Drive (SSD) and E-Sata or USB 3.0.
 
 A co-worker finally pulled the trigger on the idea and turns out it works well so I decided to build my own.
 

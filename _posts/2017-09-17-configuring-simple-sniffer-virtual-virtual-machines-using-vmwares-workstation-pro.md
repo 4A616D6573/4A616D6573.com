@@ -5,7 +5,7 @@ title: Configuring Simple Victim and Sniffer Virtual Machines Using VMware's Wor
 
 ## Introduction
 
-This post will show you how to create a victim and sniffer virtual machine pair which you can use to analyse malware or general application network traffic. This post was mainly inspired by [Malware Unicorn's Reverse Engineering 101](https://securedorg.github.io/RE101/) which provides one of the best introductions to malware reverse engineering I've read.
+This post will show you how to create a victim and sniffer virtual machine pair which you can use to analyse malware or general application network traffic. This post was mainly inspired by [Malware Unicorn's Reverse Engineering 101](https://securedorg.github.io/RE101/) which provides one of the best introductions to malware reverse engineering.
 
 I did have a few issues importing and configuring the Virtual Box images into VMware's Workstation Pro, so I deployed the configuration from scratch using Workstation Pro as the base. I also had trouble finding a central guide on how to configure INetSim and Wireshark, so I figured I'd make a post not only as a reference for myself but to aid other in configuring this setup.
 

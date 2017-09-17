@@ -168,14 +168,14 @@ I hope you found this post informative. If you have any questions, noticed inacc
 
 ## References
 
-0. https://securedorg.github.io/RE101/
-0. https://www.vmware.com/au/products/workstation.html
-0. http://www.inetsim.org/packages.html
-0. https://www.wireshark.org/
-0. https://www.vmware.com/support/ws4/doc/preserve_snapshot_ws.html
-0. https://techanarchy.net/2013/08/installing-and-configuring-inetsim/
-0. https://askubuntu.com/questions/700712/how-to-install-wireshark
-0. https://askubuntu.com/questions/454734/running-wireshark-lua-error-during-loading
-0. https://superuser.com/questions/204046/how-can-i-set-my-dns-settings-using-the-command-prompt-or-ps
+0. [https://securedorg.github.io/RE101/]("https://securedorg.github.io/RE101/)
+0. [https://www.vmware.com/au/products/workstation.html](https://www.vmware.com/au/products/workstation.html)
+0. [http://www.inetsim.org/packages.html](https://www.vmware.com/au/products/workstation.html)
+0. [https://www.wireshark.org/](https://www.wireshark.org/)
+0. [https://www.vmware.com/support/ws4/doc/preserve_snapshot_ws.html](https://www.vmware.com/support/ws4/doc/preserve_snapshot_ws.html)
+0. [https://techanarchy.net/2013/08/installing-and-configuring-inetsim/](https://techanarchy.net/2013/08/installing-and-configuring-inetsim/)
+0. [https://askubuntu.com/questions/700712/how-to-install-wireshark](https://askubuntu.com/questions/700712/how-to-install-wireshark)
+0. [https://askubuntu.com/questions/454734/running-wireshark-lua-error-during-loading](https://askubuntu.com/questions/454734/running-wireshark-lua-error-during-loading)
+0. [https://superuser.com/questions/204046/how-can-i-set-my-dns-settings-using-the-command-prompt-or-ps](https://superuser.com/questions/204046/how-can-i-set-my-dns-settings-using-the-command-prompt-or-ps)
 
 ---

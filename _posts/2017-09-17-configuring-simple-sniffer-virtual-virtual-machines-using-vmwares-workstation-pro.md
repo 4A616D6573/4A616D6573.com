@@ -62,7 +62,7 @@ Setting up INetSim isn't too difficult but some of the information to set it up 
 
 Once this is done you have installed INetSim, however you will need to do some more configuration to get it operational.
 
-0. Enter `nano /etc/default/inetsim` and set `ENABLED` from `0` to `1`, use <kbd>CTRL</kbd> + <kbd>x</kbd> to exit and type `y or yes` to save your changes. This will set INetSim to launch on boot.
+0. Enter `nano /etc/default/inetsim` and set `ENABLED` from `0` to `1`, use **CTRL** + **x** to exit and type `y or yes` to save your changes. This will set INetSim to launch on boot.
 0. Enter `nano /etc/inetsim/inetsim.conf` to open the configuration file.
 0. Set `service_bind_address` to `XXX.XXX.XXX.1` of your subnet, in this case `192.168.150.1` and delete the `#`, this will act as the internet gateway for your victim virtual machine.
 0. Set `dns_default_ip` to the same address as your gateway, remember to delete the `#` and save the configuration.
@@ -111,7 +111,7 @@ Since your Ubuntu machine is acting as your internet gateway you'll want to give
 0. Select `Options` for the `Wired` connection.
 0. Select `IPv4 Settings`.
 0. Under `Method` select `Manual`.
-0. Select `Add` and enter your address from before in this case `192.168.150.1`, use <kdb>Tab</kbd> to switch to the `Netmask`, leave this as default <kdb>Tab</kbd> again to switch to `Gateway` then entre the same number as before.
+0. Select `Add` and enter your address from before in this case `192.168.150.1`, use **Tab** to switch to the `Netmask`, leave this as default **Tab** again to switch to `Gateway` then entre the same number as before.
 0. Select `Save`.
 
 Disable and re-enable the network interface to update to your changes, confirm you address is correct by using `ifconfig` and checking the IP under `ens33`.

@@ -16,8 +16,8 @@ I did have a few issues importing and configuring the Virtual Box images into VM
 Below are the recommended components:
 
 - [VMware Workstation Pro](https://www.vmware.com/au/products/workstation.html)
-- [Ubuntu 16.4 Virtual Machine]
-- [Windows 7 Virtual Machine] (Windows XP or Windows 10 can also be used)
+- Ubuntu 16.4 Virtual Machine
+- Windows 7 Virtual Machine (Windows XP or Windows 10 can also be used)
 - [INetSim](http://www.inetsim.org/)
 - [Wireshark](https://www.wireshark.org/)
 

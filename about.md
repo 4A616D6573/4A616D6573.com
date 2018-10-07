@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a security analyst for a multinational IT service provider. This site is for  sharing ideas and my own personal education.
+I'm the Security Lead for a state owned power generation company. This site is for  sharing ideas and my own personal education.
 
 You can find me on [Twitter](https://twitter.com/4A616D6573).
 
